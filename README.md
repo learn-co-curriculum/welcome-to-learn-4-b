@@ -7,6 +7,7 @@ You'll be using the Learn IDE to complete the coding labs in your courses. You'l
 First, we need to get set up with the Learn IDE. Follow the instructions below: 
 
 1. <a class="js--download-ide" href="#">Click here to create a Learn account and Download the Learn IDE</a>
+2. The Chrome browser may give you a warning upon downloading, "This type of file can harm your computer. Do you want to keep Learn IDE anyway?". Click "Keep" to continue the download, the Learn IDE is safe.
 2. Install the Learn IDE on your computer and then start it up
 3. Log in to the Learn IDE with your newly created Learn account
 
