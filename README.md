@@ -6,7 +6,7 @@ Since you're going to be living in the Learn IDE as you learn to code, let's tak
 
 It is time to get set up with the Learn IDE. Follow the instructions below to get started: 
 
-1. <a href="/tracks/welcome-to-learn/welcome/getting-started/the-learn-ide/?create_password=true">Click here to create a Learn account and Download the Learn IDE</a>
+1. <a class="js--download-ide" href="#">Click here to create a Learn account and Download the Learn IDE</a>
 2. Install the Learn IDE on your computer and then start it up
 3. Log in to the Learn IDE with your newly created Learn account
 
@@ -30,7 +30,7 @@ The Learn IDE's terminal—your command line and shell—can be found below the 
 
 Follow the instructions below to get started with the Learn IDE
 
-1. <a href="/tracks/welcome-to-learn/welcome/getting-started/the-learn-ide/?create_password=true">Click here to create a Learn account and Download the Learn IDE</a>
+1. <a class="js--download-ide" href="#">Click here to create a Learn account and Download the Learn IDE</a>
 2. Install the Learn IDE on your computer and then start it up
 3. Log in to the Learn IDE with your newly created Learn account
 
