@@ -20,7 +20,7 @@ When you open the Learn IDE, you'll see three main components: the file browser,
 
 <img src="http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png" style="width:100%" />
 
-Down the left side of the IDE, you'll find a file browser which lists the files and folders in your “code” workspace. Contained in your “code” workspace is a “labs” folder—this is the folder into which all of the code labs and projects you'll be working on will appear. New folders wilk be automatically copied here for you as you work through lessons on Learn . Clicking on a file in the file browser will load the contents of that file into the text editor window. 
+Down the left side of the IDE, you'll find a file browser which lists the files and folders in your “code” workspace. Contained in your “code” workspace is a “labs” folder—this is the folder into which all of the code labs and projects you'll be working on will appear. New folders will be automatically copied here for you as you work through lessons on Learn . Clicking on a file in the file browser will load the contents of that file into the text editor window. 
 
 The text editor window is the central part of the IDE. This is where you'll actually be writing code. You can work on multiple files at once in the text editor, they'll appear as tabs across the top of your screen. Remember to save your work often—especially just before trying to run a program, so that the interpreter is always running the latest version of your code. 
 
